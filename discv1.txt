@@ -1,0 +1,23 @@
+
+
+
+5 jour/homme
+
+
+10 jour/homme
+
+
+
+50 tache(estimation de la dure) => dependance entre tache 
+
+duree totale du projet en jour?
+
+diagramme gant,diagramme de pert ,diaramme mpm
+
+echeancier du projet:calendrier projet 
+diagramme de gant
+
+
+
+
+ 
